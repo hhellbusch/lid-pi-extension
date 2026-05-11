@@ -1,6 +1,6 @@
 # lid-pi-extension
 
-**Linked-Intent Development (LID)** for [Pi](https://github.com/badlogic/pi-mono):
+**Linked-Intent Development (LID)** for [Pi](https://github.com/earendil-works/pi):
 an always-on L0 discipline block injected into the system prompt via
 `before_agent_start`, plus a non-code workflow adaptation in `kit/`.
 
